@@ -21,7 +21,7 @@ function About() {
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
               <h4 className="text-dark mb-3">DevOps Engineer | Cloud Enthusiast</h4>
               <p className="text-muted">
-                I’m a DevOps Engineer with ~1 year of hands-on experience in building, automating, and optimizing infrastructure and application deployment pipelines in AWS environments. I have worked extensively with <strong>AWS</strong>, <strong>Kubernetes</strong>, <strong>Terraform</strong>, <strong>Jenkins</strong>, <strong>Docker</strong>, and <strong>Grafana</strong>.
+                I’m a DevOps Engineer with 2 year of hands-on experience in building, automating, and optimizing infrastructure and application deployment pipelines in AWS environments. I have worked extensively with <strong>AWS</strong>, <strong>Kubernetes</strong>, <strong>Terraform</strong>, <strong>Jenkins</strong>, <strong>Docker</strong>, and <strong>Grafana</strong>.
               </p>
               <p className="text-muted">
                 At <strong>Trinity Mobility Pvt. Ltd.</strong>, I contributed to cost-effective cloud deployments by implementing NGINX Ingress Controllers, EBS-backed storage for persistent data, and namespace-level cost monitoring with Kubecost on EKS clusters.
@@ -41,6 +41,7 @@ function About() {
 }
 
 export default About;
+
 
 
 
