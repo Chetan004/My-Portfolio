@@ -14,7 +14,7 @@ const experiences = [
   {
     role: 'Cloud DevOps Engineer',
     company: 'NIFF Labs',
-    duration: 'October 2024 - August 2025',
+    duration: 'February 2025 - April 2025',
     description:
       'Worked on AWS and Kubernetes-based infrastructure. Implemented NGINX Ingress Controller, managed CI/CD pipelines with Jenkins, configured monitoring with Prometheus and Grafana, and automated deployments using Docker and Terraform.'
   }
@@ -56,4 +56,5 @@ export default function Experience() {
     </motion.section>
   );
 }
+
 
