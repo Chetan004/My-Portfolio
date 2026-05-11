@@ -13,8 +13,8 @@ const experiences = [
   },
   {
     role: 'Cloud DevOps Engineer',
-    company: 'NIFF Labs',
-    duration: 'February 2025 - April 2025',
+    company: 'DashRDP',
+    duration: 'April 2025 - Present',
     description:
       'Worked on AWS and Kubernetes-based infrastructure. Implemented NGINX Ingress Controller, managed CI/CD pipelines with Jenkins, configured monitoring with Prometheus and Grafana, and automated deployments using Docker and Terraform.'
   }
